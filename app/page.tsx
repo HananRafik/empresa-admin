@@ -1,5 +1,5 @@
-import Header from '../app/front/components/Header'
-import Footer from '../app/front/components/footer'
+import Header from './components/Header'
+import Footer from './components/footer'
 
 
 export default function Home() {
