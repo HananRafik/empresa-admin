@@ -95,7 +95,7 @@ export default function Header() {
             <Menu
             mode='horizontal'
             items={menuItems}
-            className='hidden md: flex border-0'
+            className='hidden md:  border-0'
             theme='light'
             />
 
